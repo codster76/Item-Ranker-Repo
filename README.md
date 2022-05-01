@@ -2,7 +2,7 @@
 
 Using Unity 2019.4.3.
 
-A Unity app used to rank/prioritise a list of things. Originally made for Minecraft, so the dataset used is a list of Minecraft items.
+A Unity app used to rank/prioritise a list of things. Originally made for Minecraft, so the dataset used is a list of Minecraft items. It wasn't originally meant to be a very large project, but it grew beyond being a tiny offline tool, so I uploaded it here.
 
 It takes a text file containing all of the things to be ranked, then presents them to you in rounds for you to pick which items to prioritise.
 
